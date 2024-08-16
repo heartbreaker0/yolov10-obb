@@ -1,6 +1,8 @@
 from ultralytics.data.converter import convert_dota_to_yolo_obb
 from ultralytics.data.split_dota import split_test, split_trainval
 import PIL.Image
+
+# for large images
 PIL.Image.MAX_IMAGE_PIXELS = None
 
 # ship ID = 1
