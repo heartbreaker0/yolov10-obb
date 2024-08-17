@@ -1,4 +1,4 @@
-path: ../DOTA-Merge-Split-Extract # dataset root dir
+path: /openbayes/input/input0/DOTA-Merge-Split-Extract # dataset root dir
 train: images/train # train images (relative to 'path') 1411 images
 val: images/val # val images (relative to 'path') 458 images
 # test: images/test # test images (optional) 937 images
